@@ -11,6 +11,7 @@
         }
 
 #### For example
+```
 {
     "name": "nodejs-template",
     "version": "1.0.0",
@@ -30,3 +31,4 @@
         "node": "14.16.0"
     }
 }
+```
